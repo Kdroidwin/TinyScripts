@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Hide the sidebar of the tweet deck
 // @author       jet_btc
-// @match        https://tweetdeck.twitter.com/
+// @match        https://x.com/i/tweetdeck
 // @grant        none
 // ==/UserScript==
 let isHide = false
